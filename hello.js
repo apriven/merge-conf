@@ -1,1 +1,1 @@
-cosnole.log("hello")
+cosnole.log("hello goodbye")
